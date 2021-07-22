@@ -15,3 +15,4 @@
 Stats:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjal123123&show_icons=true&locale=en" alt="pranjal123123" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjal123123&theme=dark&hide_langs_below=1" /></p>
