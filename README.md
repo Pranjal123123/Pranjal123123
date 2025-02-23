@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at **Napier Healthcare Pvt. Ltd.**
 
-- 🌱 I’m currently learning **more about React.js**
+- 🌱 I’m currently learning **more about SpringBoot and Java**
 
 - 👯 I’m looking to collaborate on **projects related to Web Development.**
 
