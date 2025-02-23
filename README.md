@@ -2,19 +2,56 @@
 
 - 🔭 I’m currently working at **Napier Healthcare Pvt. Ltd.**
 
-- 🌱 I’m currently learning **more about SpringBoot and Java**
+- 🌱 I’m currently learning **more about SpringBoot and Java.**
 
 - 👯 I’m looking to collaborate on **projects related to Web Development.**
 
 - 💬 Ask me about **Java,SpringBoot,Angular Js,Microservices.**
   
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him.
   
 
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring boot" width="40" height="40"/>
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a> &nbsp;&nbsp;
+  
+  <a href="#" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/4322/4322991.png" alt="microservices" width="40" height="40"/>
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://angularjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular js" width="40" height="40"/>
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react js" width="40" height="40"/>
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://site.mockito.org/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/2058043?s=200&v=4" alt="mockito" width="40" height="40"/>
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+</p>
+
 Stats:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjal123123&show_icons=true&locale=en" alt="pranjal123123" /></p>
