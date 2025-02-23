@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Pranjal Das</h1>
-<h3 align="center">An enthusiastic and self motivated web application developer/designer with good interpersonal and problem solving skills</h3>
 
-- 🔭 I’m currently working on **my data structure and algorithm skills.**
+- 🔭 I’m currently working at **Napier Healthcare Pvt. Ltd.**
 
 - 🌱 I’m currently learning **more about React.js**
 
 - 👯 I’m looking to collaborate on **projects related to Web Development.**
 
-- 💬 Ask me about **Node.js,Express.js,React.js.**
+- 💬 Ask me about **Java,SpringBoot,Angular Js,Microservices.**
+  
+- 😄 Pronouns: he/him
+  
+
 
 
 <h3 align="left">Languages and Tools:</h3>
